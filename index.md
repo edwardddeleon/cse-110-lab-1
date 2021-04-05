@@ -20,26 +20,48 @@ Here's a list of some of the files I have in this repo:
 * PRIVATE.txt
 * README.md
 
-Here's an ordered list of some countries near Italy!
+~~Here's an ordered list of some countries near Italy!~~
 
-1. Albania
-2. Algeria
-3. Croatia
-4. Greece
-5. Libya
-6. Malta
-7. Montenegro
-8. Spain
-9. Tunisia
+~~1. Albania~~
+~~2. Algeria~~
+~~3. Croatia~~
+~~4. Greece~~
+~~5. Libya~~
+~~6. Malta~~
+~~7. Montenegro~~
+~~8. Spain~~
+~~9. Tunisia~~
 
-Here's a task list of the countries near Italy I've visited!
+~~Here's a task list of the countries near Italy I've visited!~~
 
-* [ ] Albania
-* [ ] Algeria
-* [ ] Croatia
-* [ ] Greece
-* [ ] Libya
-* [ ] Malta
-* [ ] Montenegro
-* [ ] Spain
-* [ ] Tunisia
+~~* [ ] Albania~~
+~~* [ ] Algeria~~
+~~* [ ] Croatia~~
+~~* [ ] Greece~~
+~~* [ ] Libya~~
+~~* [ ] Malta~~
+~~* [ ] Montenegro~~
+~~* [ ] Spain~~
+~~* [ ] Tunisia~~
+
+Not gonna lie, I had to do this for an assignment. I totally missed the part where it was supposed to be about *me*, so I started rambling on about Italy. Here's some more stuff about myself!
+
+I heard you all liked lists, so here's a list of some programming languages I know!
+
+* Python
+* Java
+* C++
+* C
+
+I'm also really into games. Some all time favorite series/games I like are:
+
+* Final Fantasy
+* Mario
+* Zelda
+* Pokemon
+* Smash
+* League of Legends
+* Valorant
+* Hades
+* ... and a ton more!
+
