@@ -44,6 +44,28 @@ Here's a list of some of the files I have in this repo:
 ~~* [ ] Spain~~
 ~~* [ ] Tunisia~~
 
+I swear the formatting for these was correct before I did strikethrough on them... Here's a list of changes I made to this site just to show I made an ordered list.
+
+1. Created site
+2. Talked about Italy
+3. Realized I had to talk about myself
+4. Removed Italy
+5. Created new ordered list and task list
+
+Here's a task list of things I have to worry about at one of my jobs at a boba shop!
+
+* [ ] Brewing teas
+* [ ] Restocking tea bags
+* [ ] Making boba, pearl, and grass jelly
+* [ ] Restocking boba and pearl
+* [ ] Making brown sugar water
+* [ ] Restocking brown sugar
+* [ ] Making sure there is enough tea so that we don't sell out
+* [ ] Keeping track of how much we throw away
+* [ ] Throwing away a LOT of tea at the end of the night :(
+* [ ] Be sad about throwing away a lot of tea
+
+
 Not gonna lie, I had to do this for an assignment. I totally missed the part where it was supposed to be about *me*, so I started rambling on about Italy. Here's some more stuff about myself!
 
 I heard you all liked lists, so here's a list of some programming languages I know!
