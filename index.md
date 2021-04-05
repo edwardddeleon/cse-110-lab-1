@@ -9,7 +9,7 @@ System.out.println("Well, Italians sounds like italics.");
 ```
 If you want to know about the history of Italy, check out [this Wikipedia page](https://en.wikipedia.org/wiki/Italy).
 
-[Oh! Reminder, I made a cool heading. Cool like you.](#this-is-a-heading)
+[Oh! Reminder, I made a cool heading. Cool like you](#this-is-a-heading).
 
 I also have other files on this repo, such as a [README](README.md).
 
